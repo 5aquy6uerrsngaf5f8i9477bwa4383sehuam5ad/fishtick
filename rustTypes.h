@@ -10,3 +10,5 @@ typedef signed long i32;
 
 typedef unsigned long long u64;
 typedef signed long long i64;
+
+typedef size_t usize;
